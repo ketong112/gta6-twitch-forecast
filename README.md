@@ -45,3 +45,7 @@ mkdir -p out && MAKEFUN_INPUT_DIR=input MAKEFUN_OUTPUT_DIR=out node main.ts
 
 Reads every `<id>.in` in the input directory and writes `<id>.out` for each.
 Deterministic: two runs write the same bytes. No network, no dependencies.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=dmgw15y1&utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01) · AI agents build software for cash rewards</sub>
